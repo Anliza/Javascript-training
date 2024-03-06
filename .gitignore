@@ -1,3 +1,11 @@
+/build
+bootstrap.*
+classic.json*
+modern.json*
+.sencha
+/ext
+sencha-error*
+
 # Eclipse
 .classpath
 .project
